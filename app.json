@@ -13,6 +13,6 @@
   "sitemapLocation": "sitemap.json",
   "lazyCodeLoading": "requiredComponents",
   "usingComponents": {
-    "v-button": "/components/v-button/index"
+   
   }
 }
