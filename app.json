@@ -1,7 +1,7 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/components/v-button/v-button"
+    "pages/components/v-picker/v-picker"
   ],
   "window": {
     "navigationBarTextStyle": "black",

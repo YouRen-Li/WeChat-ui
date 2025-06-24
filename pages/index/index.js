@@ -7,7 +7,10 @@ Page({
     componentsPage: [
       {
         title: 'Button按钮',
-        url: '/pages/components/v-button/v-button'
+        url: ''
+      }, {
+        title: 'Picker选择器',
+        url: '/pages/components/v-picker/v-picker'
       },
     ]
   },

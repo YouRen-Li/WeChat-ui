@@ -4,6 +4,6 @@
   "navigationBarBackgroundColor": "#ffffff",
   "navigationBarTextStyle": "black",
   "usingComponents": {
-    "v-button": "/components/v-button/index"
+    "v-picker": "/components/v-picker/v-picker"
   }
 }

@@ -1,4 +1,4 @@
-// pages/components/v-button/v-button.js
+// pages/components/v-picker/v-picker.js
 Page({
 
   /**
