@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "v-button",
+  "backgroundColor": "#ffffff",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "v-button": "/components/v-button/index"
+  }
+}

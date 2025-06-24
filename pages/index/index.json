@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "WeChat-ui",
+  "backgroundColor": "#ffffff",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+   
+  }
+}

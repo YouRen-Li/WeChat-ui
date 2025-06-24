@@ -1,0 +1,29 @@
+/* 页面整体 */
+.container{
+  flex: 1;
+  background-color: #ffffff;
+}
+
+/* 基础组件 */
+.basic{
+ padding: 20px;
+}
+
+.basic-title{
+  color: #8f9ca2;
+}
+
+.basic-components{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  margin: 10px 0;
+  background-color: #f7f8fa;
+  border-radius: 20px;
+}
+
+.arrow{
+  color: #c0c0c0;
+  font-size: 14px;
+  font-weight: normal;
+}

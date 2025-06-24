@@ -1,0 +1,11 @@
+<scroll-view class="container">
+  <view class="basic">
+    <view>
+      <text class="basic-title">基础组件</text>
+    </view>
+    <view class="basic-components" wx:for="{{componentsPage}}" wx:key="index" bind:tap="skipComponents" data-url="{{item.url}}">
+      <text>{{item.title}}</text>
+      <view class="arrow">></view>
+    </view>
+  </view>
+</scroll-view>
